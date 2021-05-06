@@ -17,28 +17,28 @@
 ![image](https://user-images.githubusercontent.com/74235867/117258929-7cf2bc00-ae88-11eb-9dfc-73979d4f6f16.png)
 
 
-### 가장 많이 팔리는 상품군은 무엇일까?
+### :bar_chart:가장 많이 팔리는 상품군은 무엇일까?
 ![image](https://user-images.githubusercontent.com/74235867/117259105-b3303b80-ae88-11eb-9364-6dbc4cb1c50a.png)
 
 
-### 연도/분기 별 판매액은 어떻게 변화하고 있을까?
+### :bar_chart:연도/분기 별 판매액은 어떻게 변화하고 있을까?
 ![image](https://user-images.githubusercontent.com/74235867/117259133-b9261c80-ae88-11eb-9392-706f61b9eea4.png)
 ![image](https://user-images.githubusercontent.com/74235867/117259141-baefe000-ae88-11eb-8850-565bd4c3e790.png)
 
 
-### 화장품은 어느나라에서 가장 많이 팔릴까?
+### :bar_chart:화장품은 어느나라에서 가장 많이 팔릴까?
 ![image](https://user-images.githubusercontent.com/74235867/117259153-bdead080-ae88-11eb-9f58-5aee7d992630.png)
 
 
-### 히트맵 그래프
+### :bar_chart:히트맵 그래프
 ![image](https://user-images.githubusercontent.com/74235867/117259171-c04d2a80-ae88-11eb-8c98-899324e8c161.png)
 
 
-### 전체 상품군 매출액 그래프
+### :bar_chart:전체 상품군 매출액 그래프
 ![image](https://user-images.githubusercontent.com/74235867/117259185-c2af8480-ae88-11eb-959e-72051dfaa9ef.png)
 
 
-### 연도별 전체 상품군 판매액 그래프
+### :bar_chart:연도별 전체 상품군 판매액 그래프
 ![image](https://user-images.githubusercontent.com/74235867/117259196-c511de80-ae88-11eb-8b43-9897419367be.png)
 
 
