@@ -9,7 +9,7 @@
     🧮  Numpy
     📊  matplotlib
     📊  seaborn
-📤 국가 별 온라인 쇼핑 해외직접판매액.csv
+📤 국가별 온라인 쇼핑 해외직접판매액.csv
 ```
 
 ## :page_facing_up:공공데이터 로드 후 시각화
